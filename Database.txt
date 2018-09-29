@@ -1,0 +1,4 @@
+All the databases used in the course are default databases.
+
+Sample Superstore data you can find in the directory given below:
+Tableau Repository/Data sources/[Whatever version of Tableau Desktop/ 
