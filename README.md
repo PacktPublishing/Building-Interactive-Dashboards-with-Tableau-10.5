@@ -90,7 +90,3 @@ Tableau 10.5
 
 * [An Infinite Scroll Project Using AJAX, MySQL, API, PHP, and JQuery [Video]](https://www.packtpub.com/web-development/infinite-scroll-project-using-ajax-mysql-api-php-and-jquery-video?utm_source=github&utm_medium=repository&utm_campaign=9781789617344)
 
-### Download a free PDF
-
- <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
-<p align="center"> <a href="https://packt.link/free-ebook/9781788837194">https://packt.link/free-ebook/9781788837194 </a> </p>
